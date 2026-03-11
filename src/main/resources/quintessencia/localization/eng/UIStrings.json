@@ -1,0 +1,164 @@
+{
+  "${modID}:AlchemyMenu": {
+    "TEXT": [
+      "Back",
+      "Go back one page.",
+      "Cancel",
+      "Remove the current #pReagent, or close the menu if there is none.",
+      "Next",
+      "Go forward one page.",
+      "Brew",
+      "Consume [E] and the current #pReagents to brew a potion.",
+      "Alchemy",
+      "Use #pReagents to brew #pPotions!",
+      "Alkahest",
+      "This #pReagent typically provides the primary effect of the potion.",
+      "Blas",
+      "This #pReagent typically provides numerical changes to [${modID}:PotIcon] #yPotency.",
+      "Concrete",
+      "This #pReagent typically provides numerical changes to [${modID}:PotIcon] #yPotency.",
+      "Regulus",
+      "This #pReagent typically affects what causes a potion to #yReact during combat.",
+      "Humor",
+      "This #pReagent typically applies a wide variety of unique effects.",
+      "Potential Result"
+    ],
+    "EXTRA_TEXT": [
+      "I can't make a potion right now!",
+      "Consume [E] and the current #pReagents to brew a potion.",
+      "Consume the current #pReagents to brew a potion.",
+      "#yPotency: The strength of the potion, starting at #b",
+      ""
+    ],
+    "TEXT_DICT": {
+      "This": "",
+      "This is a key": ""
+    }
+  },
+
+
+
+  "${modID}:PotionPatch": {
+    "TEXT": [
+      "Concoction:",
+      "Made with what you could scavenge.",
+      "Synthesis",
+      "Use #yReagents and [E] to create a #yPotion during #rCombat!",
+      "Use #yReagents to create a #yPotion during #rCombat!",
+      "You can only brew potions during #rCombat!"
+    ],
+    "EXTRA_TEXT": [
+      "",
+      ""
+    ],
+    "TEXT_DICT": {
+      "This": "",
+      "This is a key": ""
+    }
+  },
+
+
+
+  "${modID}:RewardItems": {
+    "TEXT": [
+      "Choose a Reagent",
+      "Scavenge Reagents",
+      "Accept a Quest?"
+    ],
+    "EXTRA_TEXT": [
+      "",
+      ""
+    ],
+    "TEXT_DICT": {
+      "This": "",
+      "This is a key": ""
+    }
+  },
+
+
+
+  "${modID}:VarsText": {
+    "TEXT": [
+      "Start runs with 2 potions worth of random Reagents.",
+      "Unlink reagents from normal combat card rewards.",
+      "Add an extra potion slot. Disabling it will remove that potion with the slot.",
+      "Alchemize creates a random Titania-Cider.",
+      "Quintessencia relics can be found.",
+      "Reagents replace Colorless cards in shops.",
+      "Enable 'Clarity Mode', adding keyword tips and a tip button to the Alchemy Menu."
+    ],
+    "EXTRA_TEXT": [
+      " total Reagents loaded.",
+      "Clarity Mode in the Config is #gENABLED!",
+      "Clarity Mode in the Config is #rDISABLED!"
+    ],
+    "TEXT_DICT": {
+      "This": "",
+      "This is a key": ""
+    }
+  },
+
+
+
+  "${modID}:OwnedReagentsScreen": {
+    "TEXT": [
+      "Owned Reagents",
+      "Shows how many of each type of #yReagent you own."
+    ],
+    "EXTRA_TEXT": [
+      "",
+      ""
+    ],
+    "TEXT_DICT": {
+      "This": "",
+      "This is a key": ""
+    }
+  },
+
+
+  "${modID}:TalkText": {
+    "TEXT": [
+      "Clarity Mode is enabled!",
+      "Clarity Mode is disabled!"
+    ],
+    "EXTRA_TEXT": [
+      "",
+      ""
+    ],
+    "TEXT_DICT": {
+      "This": "",
+      "This is a key": ""
+    }
+  },
+
+
+
+  "${modID}:Tips": {
+    "TEXT": [
+      "Tips - Basics",
+      "Tips - Potency",
+      "Tips - Growth",
+      "Tips - Reactions",
+      "Tips - Resolution",
+      "Plain Potions",
+      "Using Leftovers",
+      "Smart Brewing",
+      "Thinking with Potions"
+    ],
+    "EXTRA_TEXT": [
+      "Click the #yLetters to change between #yReagent types. You need to use ALL #b5 types and [E] to #yBrew a potion. NL NL #bClick #bto #bContinue. #b1 #bof #b9.",
+      "The smaller the number for an effect, the slower #yPotency changes will affect it. NL NL #bClick #bto #bContinue. #b2 #bof #b9.",
+      "#yGrowth only lasts until the end of combat, be mindful what you brew and when. NL NL #bClick #bto #bContinue. #b3 #bof #b9.",
+      "Stacking #yReactions will cause a potion to grow more slowly during each #yReaction. NL NL #bClick #bto #bContinue. #b4 #bof #b9.",
+      "The effects on a potion resolve #yTop to #yBottom first, then #yLeft to #yRight where applicable. NL NL #bClick #bto #bContinue. #b5 #bof #b9.",
+      "Making a potion with no practical ability to #yReact can be the right choice at times. NL NL #bClick #bto #bContinue. #b6 #bof #b9.",
+      "You can brew potions in easy fights using leftover energy to have them for later, harder fights. NL NL #bClick #bto #bContinue. #b7 #bof #b9.",
+      "If the potion only has small effects, #yPotency losses can be nearly ignored. NL NL #bClick #bfor #bmore #btips. NL NL #bClick #bto #bContinue. #b8 #bof #b9.",
+      "You can #yBrew potions to #yReact with other potions that have very high #yGrowth rates on the fly. NL NL #bClick #bto #bContinue. #b9 #bof #b9."
+    ],
+    "TEXT_DICT": {
+      "This": "",
+      "This is a key": ""
+    }
+  }
+}

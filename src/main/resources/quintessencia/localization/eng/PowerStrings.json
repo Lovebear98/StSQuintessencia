@@ -1,0 +1,11 @@
+{
+
+  "${modID}:BarklightPower": {
+    "NAME": "Barklight",
+    "DESCRIPTIONS": [
+      "After ALL other modifications, the #yPotency of ALL potions is increased by #b",
+      ". Ignores #yPotency #yCap."
+
+    ]
+  }
+}

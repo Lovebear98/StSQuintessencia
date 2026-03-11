@@ -1,0 +1,819 @@
+{
+  "${modID}:PotionID": {
+    "NAME": "Pot -> Cap -> Growth",
+    "DESCRIPTIONS": [
+      "Little",
+      " pieces ",
+      "that get put together",
+      " into a description.",
+      " Exactly how depends on the potion, and you can set it up however you want."
+    ]
+  },
+  "${modID}:NoReagent": {
+    "NAME": "Nunya",
+    "DESCRIPTIONS": [
+      "Bidness"
+    ]
+  },
+  "${modID}:VitrihoundBloodstone": {
+    "NAME": "Vitrihound Bloodstone",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yTemporary #yHP"
+    ]
+  },
+  "${modID}:VitrihoundClaw": {
+    "NAME": "Vitrihound Claw",
+    "DESCRIPTIONS": [
+      "#yPotency #yCap: #b",
+      "#yPotency #yGrowth: #b",
+      "%",
+      " NL "
+    ]
+  },
+  "${modID}:VitrihoundFur": {
+    "NAME": "Vitrihound Fur",
+    "DESCRIPTIONS": [
+      "#yPotency #yCap: #b",
+      "#yPotency #yGrowth: #b",
+      "%",
+      " NL "
+    ]
+  },
+  "${modID}:VitrihoundHeart": {
+    "NAME": "Vitrihound Heart",
+    "DESCRIPTIONS": [
+      "Convert up to [${modID}:PotIcon] #b",
+      " #gHP into a #yBloodstone #yVial for later."
+    ]
+  },
+  "${modID}:VitrihoundTooth": {
+    "NAME": "Vitrihound Tooth",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when #yhealing.",
+      "The potion #yReacts when #yhealing."
+    ]
+  },
+  "${modID}:WidowardenSkull": {
+    "NAME": "Widowarden Skull",
+    "DESCRIPTIONS": [
+      "#yPotency #yCap: #b",
+      "#yPotency #yGrowth: #b",
+      "%",
+      " NL ",
+      "Costs #b",
+      " #yBlock."
+    ]
+  },
+  "${modID}:WidowardenMembrane": {
+    "NAME": "Widowarden Membrane",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yBlock."
+    ]
+  },
+  "${modID}:WidowardenFur": {
+    "NAME": "Widowarden Fur",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when gaining #yBlock.",
+      "The potion #yReacts when gaining #yBlock."
+    ]
+  },
+  "${modID}:WidowardenStinger": {
+    "NAME": "Widowarden Stinger",
+    "DESCRIPTIONS": [
+      "#yPotency #yGrowth: #b"
+    ]
+  },
+  "${modID}:WidowardenScales": {
+    "NAME": "Widowarden Scales",
+    "DESCRIPTIONS": [
+      "#yPotency: #b",
+      "#yPotency #yCap: #b",
+      " NL "
+    ]
+  },
+  "${modID}:FloragonToxin": {
+    "NAME": "Floragon Toxin",
+    "DESCRIPTIONS": [
+      "Apply [${modID}:PotIcon] #b",
+      " #yPoison."
+    ]
+  },
+  "${modID}:FloragonTalon": {
+    "NAME": "Floragon Talon",
+    "DESCRIPTIONS": [
+      "#yPotency: #b"
+    ]
+  },
+  "${modID}:FloragonMoss": {
+    "NAME": "Floragon Moss",
+    "DESCRIPTIONS": [
+      "#yPotency: #b"
+    ]
+  },
+  "${modID}:FloragonTailsprout": {
+    "NAME": "Floragon Tailsprout",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when applying #yPowers.",
+      "The potion #yReacts applying #yPowers."
+    ]
+  },
+  "${modID}:FloragonBlood": {
+    "NAME": "Floragon Blood",
+    "DESCRIPTIONS": [
+      "Apply [${modID}:PotIcon] #b",
+      " #yPoison."
+    ]
+  },
+  "${modID}:SoulwinderGallstone": {
+    "NAME": "Soulwinder Gallstone",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when #yAttacking successfully.",
+      "The potion #yReacts when #yAttacking successfully."
+    ]
+  },
+  "${modID}:SoulwinderNeedletooth": {
+    "NAME": "Soulwinder Needletooth",
+    "DESCRIPTIONS": [
+      "#yPotency: #b",
+      "#yPotency #yGrowth: #b",
+      " NL "
+    ]
+  },
+  "${modID}:SoulwinderShedtail": {
+    "NAME": "Soulwinder Shedtail",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yVigor."
+    ]
+  },
+  "${modID}:SoulwinderSnakeoil": {
+    "NAME": "Soulwinder Snakeoil",
+    "DESCRIPTIONS": [
+      "#yPotency: #b",
+      "#yPotency #yCap: #b",
+      " NL "
+    ]
+  },
+  "${modID}:SoulwinderRotdrool": {
+    "NAME": "Soulwinder Rotdrool",
+    "DESCRIPTIONS": [
+      "Enter #yWrath."
+    ]
+  },
+  "${modID}:AwakenedLayerskull": {
+    "NAME": "Soulwinder Rotdrool",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yRitual."
+    ]
+  },
+  "${modID}:BottledSlime": {
+    "NAME": "Bottled Slime",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yRegen."
+    ]
+  },
+  "${modID}:ConstructOil": {
+    "NAME": "Construct Oil",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yArtifact."
+    ]
+  },
+  "${modID}:TransientBlood": {
+    "NAME": "Transient Blood",
+    "DESCRIPTIONS": [
+      "Enter #yCalm."
+    ]
+  },
+  "${modID}:ChargedCore": {
+    "NAME": "Charged Core",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when #yEvoking.",
+      "The potion #yReacts when #yEvoking."
+    ]
+  },
+  "${modID}:MawTeeth": {
+    "NAME": "Maw Teeth",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yStrength."
+    ]
+  },
+  "${modID}:NemesisSkull": {
+    "NAME": "Nemesis Skull",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when #yDrawing.",
+      "The potion #yReacts when #yDrawing."
+    ]
+  },
+  "${modID}:ChampionsChalice": {
+    "NAME": "Champion's Chalice",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when changing #yStances."
+    ,
+      "The potion #yReacts when changing #yStances."
+    ]
+  },
+  "${modID}:EyesOfFealty": {
+    "NAME": "Eyes of Fealty",
+    "DESCRIPTIONS": [
+      "#yPotency #yCap: #b"
+    ]
+  },
+  "${modID}:ScrapMetal": {
+    "NAME": "Scrap Metal",
+    "DESCRIPTIONS": [
+      "Deal [${modID}:PotIcon] #b",
+      " damage."
+    ]
+  },
+  "${modID}:Hexflames": {
+    "NAME": "Hexflames",
+    "DESCRIPTIONS": [
+      "#yPotency: #b",
+      "#yPotency #yCap: #b",
+      "#yPotency #yGrowth: #b",
+      "Costs #b",
+      " #yEnergy.",
+      " NL "
+    ]
+  },
+  "${modID}:HumanTeeth": {
+    "NAME": "Human Teeth",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yOrb #ySlots."
+    ]
+  },
+  "${modID}:LouseBile": {
+    "NAME": "Louse Bile",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yDexterity."
+    ]
+  },
+  "${modID}:GremlinTooth": {
+    "NAME": "Gremlin Tooth",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when losing #yHP.",
+      "The potion #yReacts when losing #yHP."
+    ]
+  },
+  "${modID}:WrithingTobacco": {
+    "NAME": "Writhing Tobacco",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yFocus and #yChannel a #yLightning.",
+      "#yChannel a #yLightning."
+    ]
+  },
+  "${modID}:SneckoScales": {
+    "NAME": "Snecko Scales",
+    "DESCRIPTIONS": [
+      "Draw [${modID}:PotIcon] #b",
+      " cards, then discard [${modID}:PotIcon] #b",
+      " cards."
+    ]
+  },
+  "${modID}:Saltpetre": {
+    "NAME": "Saltpetre",
+    "DESCRIPTIONS": [
+      "Deal [${modID}:PotIcon] #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "${modID}:CultistHands": {
+    "NAME": "Cultist Hands",
+    "DESCRIPTIONS": [
+      "#yPotency #yGrowth: #b"
+    ]
+  },
+  "${modID}:ByrdFeather": {
+    "NAME": "Byrd Feather",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yTemporary #yStrength."
+    ]
+  },
+  "${modID}:DarklingCores": {
+    "NAME": "Darkling Cores",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] #b",
+      " #yTemporary #yDexterity."
+    ]
+  },
+  "${modID}:Mandragora": {
+    "NAME": "Mandragora",
+    "DESCRIPTIONS": [
+      "The potion #yReacts by #b",
+      " when using potions.",
+      "The potion #yReacts when using potions."
+    ]
+  },
+  "${modID}:GolemBolts": {
+    "NAME": "Golem Bolts",
+    "DESCRIPTIONS": [
+      "#yUpgrade [${modID}:PotIcon] #b",
+      " cards in your hand."
+    ]
+  },
+  "${modID}:Snakebud": {
+    "NAME": "Snakebud",
+    "DESCRIPTIONS": [
+      "Gain [${modID}:PotIcon] ",
+      "[E] ",
+      "."
+    ]
+  },
+  "${modID}:FingerOfAvarice": {
+    "NAME": "Finger of Avarice",
+    "DESCRIPTIONS": [
+      "Play [${modID}:PotIcon] #b",
+      " card off the top of your draw pile."
+    ]
+  },
+  "${modID}:WormJaw": {
+    "NAME": "Worm Jaw",
+    "DESCRIPTIONS": [
+      "#yPotency: #b",
+      "#yPotency #yGrowth: #b",
+      " NL "
+    ]
+  },
+
+  "${modID}:AlchemiaRegia": {
+    "NAME": "Alchemia Regia",
+    "DESCRIPTIONS": [
+      "Refined and purified magic water distilled by your own two hands, raw potential waiting to become a powerful potion.",
+      "Gain #b",
+      " #yArtifact.",
+      " #yBlock",
+      " #yBlock each turn.",
+      " #yPlated #yArmor.",
+      " #yIntangible.",
+      " #yThorns.",
+      " #gMax #gHP.",
+      " #yTemp #yHP.",
+      " #gHP.",
+      " #yRegen.",
+      "Deal #b",
+      " damage.",
+      " damage to ALL enemies.",
+      "Apply #b",
+      " #yPoison.",
+      " #yWeak.",
+      " #yVulnerable.",
+      " #yStrength",
+      " this turn",
+      ".",
+      " #yDexterity",
+      " this turn",
+      ".",
+      " #yFocus.",
+      " #yRitual.",
+      "Add ",
+      " to your hand.",
+      "Draw #b",
+      " cards.",
+      "#yDiscard #b",
+      "#yExhaust #b",
+      "Become #yConfused.",
+      "Add #b",
+      " cards from the",
+      " draw pile.",
+      " discard pile.",
+      "#yUpgrade #b",
+      "Play the top #b",
+      " cards of the draw pile.",
+      "Play #b",
+      " #yAttack(s)",
+      " #yPower(s)",
+      " #ySkill(s)",
+      " card(s)",
+      "twice this turn.",
+      " orb slots.",
+      "#yChannel ",
+      ".",
+      "Gain ",
+      "Potion Stats",
+      "#gCore #gPotency: #b",
+      " / #b",
+      " NL #yProgress: #b",
+      "%",
+      " NL #pGrowth #pRate: #b",
+      "Costs #b",
+      " #gHP.",
+      " #yEnergy.",
+      " #yBlock.",
+      " #yDiscards.",
+      " #yExhausts.",
+      " #yTemp #yHP.",
+      " #yGold.",
+      " NL ",
+      " #yVigor.",
+      "[E] ",
+      "Costs ",
+      "#yUpgrade #b",
+      " random cards in your hand."
+    ]
+  },
+  "${modID}:Chimerelixis": {
+    "NAME": "Chimerelixis",
+    "DESCRIPTIONS": [
+      "Assorted #rgore, #rjuices, and #rfluids ripped from their monstrous owners and combined to empower you. The only thing stronger than the taste is the smell of #riron.",
+      "Gain #b",
+      " #yArtifact.",
+      " #yBlock",
+      " #yBlock each turn.",
+      " #yPlated #yArmor.",
+      " #yIntangible.",
+      " #yThorns.",
+      " #gMax #gHP.",
+      " #yTemp #yHP.",
+      " #gHP.",
+      " #yRegen.",
+      "Deal #b",
+      " damage.",
+      " damage to ALL enemies.",
+      "Apply #b",
+      " #yPoison.",
+      " #yWeak.",
+      " #yVulnerable.",
+      " #yStrength",
+      " this turn",
+      ".",
+      " #yDexterity",
+      " this turn",
+      ".",
+      " #yFocus.",
+      " #yRitual.",
+      "Add ",
+      " to your hand.",
+      "Draw #b",
+      " cards.",
+      "#yDiscard #b",
+      "#yExhaust #b",
+      "Become #yConfused.",
+      "Add #b",
+      " cards from the",
+      " draw pile.",
+      " discard pile.",
+      "#yUpgrade #b",
+      "Play the top #b",
+      " cards of the draw pile.",
+      "Play #b",
+      " #yAttack(s)",
+      " #yPower(s)",
+      " #ySkill(s)",
+      " card(s)",
+      "twice this turn.",
+      " orb slots.",
+      "#yChannel ",
+      ".",
+      "Gain ",
+      "Potion Stats",
+      "#gCore #gPotency: #b",
+      " / #b",
+      " NL #yProgress: #b",
+      "%",
+      " NL #pGrowth #pRate: #b",
+      "Costs #b",
+      " #gHP.",
+      " #yEnergy.",
+      " #yBlock.",
+      " #yDiscards.",
+      " #yExhausts.",
+      " #yTemp #yHP.",
+      " #yGold.",
+      " NL ",
+      " #yVigor.",
+      "[E] ",
+      "Costs ",
+      "#yUpgrade #b",
+      " random cards in your hand."
+    ]
+  },
+  "${modID}:Titanicider": {
+    "NAME": "Titani-Cider",
+    "DESCRIPTIONS": [
+      "The sweet taste belies its #gsilent, deadly potency. A #gtoxin with its own will that knows its master, that can #gmend them as easily as it #rmaims others.",
+      "Gain #b",
+      " #yArtifact.",
+      " #yBlock",
+      " #yBlock each turn.",
+      " #yPlated #yArmor.",
+      " #yIntangible.",
+      " #yThorns.",
+      " #gMax #gHP.",
+      " #yTemp #yHP.",
+      " #gHP.",
+      " #yRegen.",
+      "Deal #b",
+      " damage.",
+      " damage to ALL enemies.",
+      "Apply #b",
+      " #yPoison.",
+      " #yWeak.",
+      " #yVulnerable.",
+      " #yStrength",
+      " this turn",
+      ".",
+      " #yDexterity",
+      " this turn",
+      ".",
+      " #yFocus.",
+      " #yRitual.",
+      "Add ",
+      " to your hand.",
+      "Draw #b",
+      " cards.",
+      "#yDiscard #b",
+      "#yExhaust #b",
+      "Become #yConfused.",
+      "Add #b",
+      " cards from the",
+      " draw pile.",
+      " discard pile.",
+      "#yUpgrade #b",
+      "Play the top #b",
+      " cards of the draw pile.",
+      "Play #b",
+      " #yAttack(s)",
+      " #yPower(s)",
+      " #ySkill(s)",
+      " card(s)",
+      "twice this turn.",
+      " orb slots.",
+      "#yChannel ",
+      ".",
+      "Gain ",
+      "Potion Stats",
+      "#gCore #gPotency: #b",
+      " / #b",
+      " NL #yProgress: #b",
+      "%",
+      " NL #pGrowth #pRate: #b",
+      "Costs #b",
+      " #gHP.",
+      " #yEnergy.",
+      " #yBlock.",
+      " #yDiscards.",
+      " #yExhausts.",
+      " #yTemp #yHP.",
+      " #yGold.",
+      " NL ",
+      " #yVigor.",
+      "[E] ",
+      "Costs ",
+      "#yUpgrade #b",
+      " random cards in your hand."
+    ]
+  },
+  "${modID}:VolteaRegia": {
+    "NAME": "Voltea Regia",
+    "DESCRIPTIONS": [
+      "#b[REPAIR #b- #b2309] #r[FAILED] NL #b[ERROR] #r[CORE #rDATA] #yNOT #yFOUND NL #b[OBJECTIVE] #yREPAIR #yCORE #bDEFECT",
+      "Gain #b",
+      " #yArtifact.",
+      " #yBlock",
+      " #yBlock each turn.",
+      " #yPlated #yArmor.",
+      " #yIntangible.",
+      " #yThorns.",
+      " #gMax #gHP.",
+      " #yTemp #yHP.",
+      " #gHP.",
+      " #yRegen.",
+      "Deal #b",
+      " damage.",
+      " damage to ALL enemies.",
+      "Apply #b",
+      " #yPoison.",
+      " #yWeak.",
+      " #yVulnerable.",
+      " #yStrength",
+      " this turn",
+      ".",
+      " #yDexterity",
+      " this turn",
+      ".",
+      " #yFocus.",
+      " #yRitual.",
+      "Add ",
+      " to your hand.",
+      "Draw #b",
+      " cards.",
+      "#yDiscard #b",
+      "#yExhaust #b",
+      "Become #yConfused.",
+      "Add #b",
+      " cards from the",
+      " draw pile.",
+      " discard pile.",
+      "#yUpgrade #b",
+      "Play the top #b",
+      " cards of the draw pile.",
+      "Play #b",
+      " #yAttack(s)",
+      " #yPower(s)",
+      " #ySkill(s)",
+      " card(s)",
+      "twice this turn.",
+      " orb slots.",
+      "#yChannel ",
+      ".",
+      "Gain ",
+      "Potion Stats",
+      "#gCore #gPotency: #b",
+      " / #b",
+      " NL #yProgress: #b",
+      "%",
+      " NL #pGrowth #pRate: #b",
+      "Costs #b",
+      " #gHP.",
+      " #yEnergy.",
+      " #yBlock.",
+      " #yDiscards.",
+      " #yExhausts.",
+      " #yTemp #yHP.",
+      " #yGold.",
+      " NL ",
+      " #yVigor.",
+      "[E] ",
+      "Costs ",
+      "#yUpgrade #b",
+      " random cards in your hand."
+    ]
+  },
+  "${modID}:Opthistoria": {
+    "NAME": "Opthistoria",
+    "DESCRIPTIONS": [
+      "The flashes and shimmers of memories far outside of your own. You've #pwatched, #premembered, #plived, but now you must #pcreate.",
+      "Gain #b",
+      " #yArtifact.",
+      " #yBlock",
+      " #yBlock each turn.",
+      " #yPlated #yArmor.",
+      " #yIntangible.",
+      " #yThorns.",
+      " #gMax #gHP.",
+      " #yTemp #yHP.",
+      " #gHP.",
+      " #yRegen.",
+      "Deal #b",
+      " damage.",
+      " damage to ALL enemies.",
+      "Apply #b",
+      " #yPoison.",
+      " #yWeak.",
+      " #yVulnerable.",
+      " #yStrength",
+      " this turn",
+      ".",
+      " #yDexterity",
+      " this turn",
+      ".",
+      " #yFocus.",
+      " #yRitual.",
+      "Add ",
+      " to your hand.",
+      "Draw #b",
+      " cards.",
+      "#yDiscard #b",
+      "#yExhaust #b",
+      "Become #yConfused.",
+      "Add #b",
+      " cards from the",
+      " draw pile.",
+      " discard pile.",
+      "#yUpgrade #b",
+      "Play the top #b",
+      " cards of the draw pile.",
+      "Play #b",
+      " #yAttack(s)",
+      " #yPower(s)",
+      " #ySkill(s)",
+      " card(s)",
+      "twice this turn.",
+      " orb slots.",
+      "#yChannel ",
+      ".",
+      "Gain ",
+      "Potion Stats",
+      "#gCore #gPotency: #b",
+      " / #b",
+      " NL #yProgress: #b",
+      "%",
+      " NL #pGrowth #pRate: #b",
+      "Costs #b",
+      " #gHP.",
+      " #yEnergy.",
+      " #yBlock.",
+      " #yDiscards.",
+      " #yExhausts.",
+      " #yTemp #yHP.",
+      " #yGold.",
+      " NL ",
+      " #yVigor.",
+      "[E] ",
+      "Costs ",
+      "#yUpgrade #b",
+      " random cards in your hand."
+    ]
+  },
+  "${modID}:PhilteredChaos": {
+    "NAME": "Philtered Chaos",
+    "DESCRIPTIONS": [
+      "It's just a little different every time you run across it. Sometimes it holds its shape, others it becomes entirely different. Where is it from? And what created it?",
+      "Gain #b",
+      " #yArtifact.",
+      " #yBlock",
+      " #yBlock each turn.",
+      " #yPlated #yArmor.",
+      " #yIntangible.",
+      " #yThorns.",
+      " #gMax #gHP.",
+      " #yTemp #yHP.",
+      " #gHP.",
+      " #yRegen.",
+      "Deal #b",
+      " damage.",
+      " damage to ALL enemies.",
+      "Apply #b",
+      " #yPoison.",
+      " #yWeak.",
+      " #yVulnerable.",
+      " #yStrength",
+      " this turn",
+      ".",
+      " #yDexterity",
+      " this turn",
+      ".",
+      " #yFocus.",
+      " #yRitual.",
+      "Add ",
+      " to your hand.",
+      "Draw #b",
+      " cards.",
+      "#yDiscard #b",
+      "#yExhaust #b",
+      "Become #yConfused.",
+      "Add #b",
+      " cards from the",
+      " draw pile.",
+      " discard pile.",
+      "#yUpgrade #b",
+      "Play the top #b",
+      " cards of the draw pile.",
+      "Play #b",
+      " #yAttack(s)",
+      " #yPower(s)",
+      " #ySkill(s)",
+      " card(s)",
+      "twice this turn.",
+      " orb slots.",
+      "#yChannel ",
+      ".",
+      "Gain ",
+      "Potion Stats",
+      "#gCore #gPotency: #b",
+      " / #b",
+      " NL #yProgress: #b",
+      "%",
+      " NL #pGrowth #pRate: #b",
+      "Costs #b",
+      " #gHP.",
+      " #yEnergy.",
+      " #yBlock.",
+      " #yDiscards.",
+      " #yExhausts.",
+      " #yTemp #yHP.",
+      " #yGold.",
+      " NL ",
+      " #yVigor.",
+      "[E] ",
+      "Costs ",
+      "#yUpgrade #b",
+      " random cards in your hand."
+    ]
+  },
+  "${modID}:BloodstoneVial": {
+    "NAME": "Bloodstone Vial",
+    "DESCRIPTIONS": [
+      "Heal your #b",
+      " stored #gHP."
+    ]
+  }
+}

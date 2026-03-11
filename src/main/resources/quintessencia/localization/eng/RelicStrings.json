@@ -1,0 +1,93 @@
+{
+  "${modID}:Sozo": {
+    "NAME": "Sozo",
+    "FLAVOR": "Huh. Turns out there's only so much magic it can eat. Neat.",
+    "DESCRIPTIONS": ["Gain [E] at the start of each turn."
+    ]
+  },
+  "${modID}:RitesOfZapis": {
+    "NAME": "Rites of Zapis",
+    "FLAVOR": "Every summer it demands three drops of blood from a child's finger, and every winter it pays back that bounty.",
+    "DESCRIPTIONS": ["During the first turn of combat, ALL potions have #b",
+      " more #yPotency."
+    ]
+  },
+  "${modID}:FieldAlchemyNotes": {
+    "NAME": "Notes on Field Alchemy",
+    "FLAVOR": "This illustrated guide covers techniques to make field alchemy faster, safer, and less stressful!",
+    "DESCRIPTIONS": ["It no longer costs [E] to #yBrew a #yPotion."
+    ]
+  },
+  "${modID}:BlueTrimmedNotebook": {
+    "NAME": "Blue Notebook",
+    "FLAVOR": "I'm getting tired of customers refusing to buy anything. All the effort I go through to make these for them, and they don't appreciate it!",
+    "DESCRIPTIONS": ["#yUpgrade #b",
+      " random #yReagents in each reward, allowing you to #y${modID}:Gather more."
+    ]
+  },
+  "${modID}:ChimerelixisNotes": {
+    "NAME": "Notes on Chimerelixis",
+    "FLAVOR": "...temporary transformation...monstrous man-chimera....strength, healing, reaction speed...dampens fear...",
+    "DESCRIPTIONS": [
+      "Replace #pStarter #yStrikes with #yBrewing #yStrikes, appropriately #yUpgraded. #yBrewing #yStrikes are still #pStarter #yStrikes."
+    ]
+  },
+  "${modID}:TitaniCiderNotes": {
+    "NAME": "Notes on Titani-Cider",
+    "FLAVOR": "....single drop...fatal...others...even enormous....sweet taste...numbing...unsuspecting...",
+    "DESCRIPTIONS": [
+      "Replace #pStarter #yDefends with #yFume #yVeils, appropriately #yUpgraded. #yFume #yVeils are still #pStarter #yDefends."
+    ]
+  },
+  "${modID}:VolteaRegiaNotes": {
+    "NAME": "Notes on Voltea Regia",
+    "FLAVOR": "...AMPLIFIES...ELECTRICAL SIGNALS...ASSIMILATES...REPAIR...NO FAULTS...INDEPENDENT...",
+    "DESCRIPTIONS": [
+      "When you drink a potion, channel an #y${modID}:Elemental."
+    ]
+  },
+  "${modID}:OpthistoriaNotes": {
+    "NAME": "Notes on Opthistoria",
+    "FLAVOR": "...expands sensory abilities...hijack...overwhelming...observe...greater ranges...accuracy...",
+    "DESCRIPTIONS": [
+      "When you drink a potion, gain #b",
+      " #yVigor for each potion used this combat. NL Next: #b"
+    ]
+  },
+  "${modID}:BruteforceMethod": {
+    "NAME": "Bruteforce Method",
+    "FLAVOR": "Theoretically, with inhuman magic reserves and no proficiency, once could bruteforce an Alkahest reaction...",
+    "DESCRIPTIONS": [
+      "[WIP] Unlocks the #rBlood brewing mode. You can lose #b",
+      " #gHP #b",
+      " times instead of [E] when brewing potions.",
+      " NL NL #pPRIORITIZED - #yRight #yclick to disable"
+    ]
+  },
+  "${modID}:PreciseMethod": {
+    "NAME": "Precise Method",
+    "FLAVOR": "If one were precise enough to measure reagents down to a hundreth of a gram, it may be possible to cause a Blas reaction with no magic at all...",
+    "DESCRIPTIONS": [
+      "You can discard #b",
+      " cards, instead of paying [E] when brewing potions. If you do, draw a card."
+    ]
+  },
+  "${modID}:ResonanceMethod": {
+    "NAME": "Resonance Method",
+    "FLAVOR": "Introducing high-density sources of mana to the potion could excite the Concrete to cause a reaction if one could find them...",
+    "DESCRIPTIONS": [
+      "You can destroy #b",
+      " orbs instead of paying [E] when brewing potions."
+    ]
+  },
+  "${modID}:HarmonicMethod": {
+    "NAME": "Harmonic Method",
+    "FLAVOR": "An alchemist with a methodical mana flow can very rarely cause a mutual reaction between the Regulus and Humor to take place...",
+    "DESCRIPTIONS": [
+      "You can evoke exactly #b",
+      " orbs instead of paying [E] when brewing potions."
+    ]
+  }
+}
+
+

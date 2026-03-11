@@ -1,0 +1,64 @@
+[
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest should use _ to replace spaces and be entirely lowercase. In card text, you'll use the underscore versions."
+  },
+  {
+    "PROPER_NAME": "Gather",
+    "NAMES": [
+      "Gather",
+      "gather"
+    ],
+    "DESCRIPTION": "Add #bX of a #yReagent to your supplies."
+  },
+  {
+    "PROPER_NAME": "Elemental",
+    "NAMES": [
+      "Elemental",
+      "elemental"
+    ],
+    "DESCRIPTION": "#yPassive: Gain temporary #yPotency. NL #yEvoke: #yGather a #yReagent. NL NL Doesn't scale with #yFocus."
+  },
+  {
+    "PROPER_NAME": "Core Potency",
+    "NAMES": [
+      "Potency",
+      "potency"
+    ],
+    "DESCRIPTION": "The potion's strength, starting at #b10, that the [${modID}:PotIcon] #ymarked effects scale with. #b1 #yPotency is a #b10% change."
+  },
+  {
+    "PROPER_NAME": "Growth Rate",
+    "NAMES": [
+      "Potency Growth",
+      "Potency_Growth",
+      "potency_growth"
+    ],
+    "DESCRIPTION": "The rate that #yReactions increase #yProgress. Every #b100%, #yPotency will increase by #b1."
+  },
+  {
+    "PROPER_NAME": "Potency Cap",
+    "NAMES": [
+      "Potency Cap",
+      "Potency_Cap",
+      "potency_cap"
+    ],
+    "DESCRIPTION": "The upper cap of #yPotency a potion can be reach through #yReactions."
+  },
+  {
+    "PROPER_NAME": "Reaction",
+    "NAMES": [
+      "Reaction",
+      "reaction",
+      "react",
+      "reacts",
+      "reacting"
+    ],
+    "DESCRIPTION": "Add the #yGrowth #yRate to the potion's #yProgress. Every #b100%, increase #yPotency by #b1 only during that combat."
+  }
+]

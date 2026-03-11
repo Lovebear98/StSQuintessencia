@@ -1,0 +1,76 @@
+{
+  "${modID}:CardModText": {
+    "NAME": "",
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "${modID}:Potency",
+      "${modID}:Potency_Cap",
+      "${modID}:Potency_Growth",
+      "${modID}:Reacts",
+      "${modID}:React"
+    ]
+  },
+  "${modID}:TestCollection": {
+    "NAME": "REAGENT TESTING",
+    "DESCRIPTION": "MAX ALL Reagents.",
+    "UPGRADE_DESCRIPTION": "ZERO ALL Reagents.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Gather": {
+    "NAME": "Gather",
+    "DESCRIPTION": "Collect a Reagent.",
+    "UPGRADE_DESCRIPTION": "Collect a Reagent.",
+    "EXTENDED_DESCRIPTION": [
+      "${modID}:Gather !M!.",
+      "You have ",
+      " of this Reagent."
+    ]
+  },
+  "${modID}:BrewingStrike": {
+    "NAME": "Brewing Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Damage equals half the highest potency among your potions.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Damage equals the highest potency among your potions.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:FumeVeil": {
+    "NAME": "Fume Veil",
+    "DESCRIPTION": "Gain !B! Block. NL Block equals half the highest potency among your potions.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Block equals half the highest potency among your potions.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Stimulant": {
+    "NAME": "Stimulant",
+    "DESCRIPTION": "Draw !M! card. NL Draws another card for each potion you have that's at its maximum potency.",
+    "UPGRADE_DESCRIPTION": "Draw !M! card. NL Draws another card for each potion you have that's at its maximum potency.",
+    "EXTENDED_DESCRIPTION": [
+      "Draw !M! card. NL Draws another card for each potion you have that's at its maximum potency.",
+      "Draw !M! cards. NL Draws another card for each potion you have that's at its maximum potency."
+    ]
+  },
+  "${modID}:Overdose": {
+    "NAME": "Overdose",
+    "DESCRIPTION": "When you drink a potion, the target takes damage equal to its potency.",
+    "UPGRADE_DESCRIPTION": "When you drink a potion, the target takes damage equal to its potency.",
+    "EXTENDED_DESCRIPTION": [
+      "${modID}:Gather !M!.",
+      "You have ",
+      " of this Reagent."
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+

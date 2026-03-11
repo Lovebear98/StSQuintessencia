@@ -1,0 +1,10 @@
+{
+  "${modID}:Elemental": {
+    "NAME": "Elemental",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, potions gain #b",
+      " #yPotency that turn. NL #yEvoke: #yGather #b",
+      " random #yReagent. NL NL Orb does not scale with #yFocus."
+    ]
+  }
+}

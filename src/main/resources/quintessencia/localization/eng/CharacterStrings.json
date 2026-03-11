@@ -1,0 +1,13 @@
+{
+  "${modID}:New_Character": {
+    "NAMES": [
+      "New Character",
+      "the Titled"
+    ],
+    "TEXT": [
+      "Somethign something lore NL something something gameplaystyle",
+      " NL You dab the heart into submission.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of a feast upon mounds of raw flesh. As you approach, they turn to you in eerie unison. The tallest among them bares a fanged grin and extends a long, pale hand towards you. NL ~\"Welcome,~ ~devourer~ ~of~ ~man.~ ~Will~ ~you~ ~partake?\"~"
+    ]
+  }
+}

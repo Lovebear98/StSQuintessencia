@@ -1,0 +1,22 @@
+{
+  "modid": "${modID}",
+  "name": "${project.name}",
+  "author_list": ["${author}"],
+  "description": "!(project.description)",
+  "version": "${project.version}",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": "",
+  "loading_phrases": [
+    "Gathering Reagents...",
+    "Distilling Regia...",
+    "Fermenting Guts...",
+    "Perfecting Poison...",
+    "Repairing Core Damage...",
+    "Observing Everything...",
+    "Brewing Potions...",
+    "Sanctifying Bark...",
+    "Evilifying Sozu..."
+  ]
+}
